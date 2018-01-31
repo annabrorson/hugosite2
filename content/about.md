@@ -1,10 +1,11 @@
 ---
 title: "Om"
 date: 2018-01-31T12:14:18+01:00
-draft: true
+
 ---
  
-![foto af mig] (../img/foto_om.jpg)
+![foto](/img/foto_om.jpg)
+
 
 
 ## Mogens Jørgensen

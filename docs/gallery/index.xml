@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Galleries on </title>
+    <link>https://github.com/annabrorson/hugosite2/gallery/</link>
+    <description>Recent content in Galleries on </description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 15 May 2017 21:57:17 -0700</lastBuildDate>
+    
+	<atom:link href="https://github.com/annabrorson/hugosite2/gallery/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blå</title>
+      <link>https://github.com/annabrorson/hugosite2/gallery/hugo/</link>
+      <pubDate>Mon, 15 May 2017 21:57:17 -0700</pubDate>
+      
+      <guid>https://github.com/annabrorson/hugosite2/gallery/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projekt om månen</title>
+      <link>https://github.com/annabrorson/hugosite2/gallery/hugo1/</link>
+      <pubDate>Mon, 15 May 2017 21:57:17 -0700</pubDate>
+      
+      <guid>https://github.com/annabrorson/hugosite2/gallery/hugo1/</guid>
+      <description>#jcj</description>
+    </item>
+    
+    <item>
+      <title>Temaer</title>
+      <link>https://github.com/annabrorson/hugosite2/gallery/hugo3/</link>
+      <pubDate>Mon, 15 May 2017 21:57:17 -0700</pubDate>
+      
+      <guid>https://github.com/annabrorson/hugosite2/gallery/hugo3/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Udstilling</title>
+      <link>https://github.com/annabrorson/hugosite2/gallery/hugo2/</link>
+      <pubDate>Mon, 15 May 2017 21:57:17 -0700</pubDate>
+      
+      <guid>https://github.com/annabrorson/hugosite2/gallery/hugo2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

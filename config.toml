@@ -1,7 +1,8 @@
-baseURL = "http://example.org/"
+baseURL = "https://github.com/annabrorson/hugosite2"
 languageCode = "en-us"
 title = ""
 theme = "osprey"
+publishDir = "docs"
 
 [[menu.main]]
 name               	= "Home"
@@ -19,15 +20,21 @@ url                	= "/portfolio/"
 
 [[menu.main]]
 name               	= "Kontakt"
-weight             	= 3
+weight             	= 4
 identifier         	= "contact"
 url                	= "/contact/"
+
+[[menu.main]]
+name               	= "Blog"
+weight             	= 4
+identifier         	= "blog"
+url                	= "/blog/"
 
 
 
 [[menu.main]]
 name               	= "Om"
-weight             	= 4
+weight             	= 5
 identifier         	= "about"
 url                	= "/about/"
 
