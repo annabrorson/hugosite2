@@ -1,6 +1,6 @@
 baseURL = "http://example.org/"
 languageCode = "en-us"
-title = "Velkommen"
+title = ""
 theme = "osprey"
 
 [[menu.main]]
@@ -9,29 +9,25 @@ weight             	= 1
 identifier         	= "home"
 url                	= "/"
 
-[[menu.main]]
-name               	= "Blog"
-weight             	= 2
-identifier         	= "blog"
-url                	= "/blog/"
+
 
 [[menu.main]]
 name               	= "Portfolio"
-weight             	= 3
+weight             	= 2
 identifier         	= "portfolio"
 url                	= "/portfolio/"
 
 [[menu.main]]
-name               	= "Contact"
-weight             	= 4
+name               	= "Kontakt"
+weight             	= 3
 identifier         	= "contact"
 url                	= "/contact/"
 
 
 
 [[menu.main]]
-name               	= "About"
-weight             	= 5
+name               	= "Om"
+weight             	= 4
 identifier         	= "about"
 url                	= "/about/"
 
